@@ -19,6 +19,7 @@ A list of all my projects in chronological order
 
 ### Experimental/playground projects
 - [Holy Grail Layout with Grid](https://github.com/eunicode/pr-grid-holygrail)
+- [Search Autocomplete component](https://github.com/eunicode/pramp-autocomplete)
 
 ### Tutorial projects
 - [Weather CLI](https://github.com/eunicode/weather-cli) 
@@ -29,9 +30,12 @@ A list of all my projects in chronological order
 
 ## Other
 
-### My algorithm solutions
+### Algorithm solutions
 - [Algorithms](https://github.com/eunicode/algos)
 
 ### Open source contributions
 - Gatsby Layout Components docs - [PR](https://github.com/gatsbyjs/gatsby/pull/8880)
 - VS Code extension sample README - [PR](https://github.com/Microsoft/vscode-extension-samples/pull/115)
+
+### Boilerplates
+- [Basic Gulp boilerplate](https://github.com/eunicode/boilerplate-gulp-basic)
