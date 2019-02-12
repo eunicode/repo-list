@@ -1,22 +1,22 @@
 # My Repositories
 
-A list of all my projects in chronological order.<br>
-Bolded projects are more significant. 
+A list of all my projects in chronological order.
 
 ## Projects
 
 ### Group projects
-- **[Momentum Dash Clone](https://github.com/krittiyaclark/Momentumdash)**
-- **[Turtles Tab](https://github.com/eunicode/Voyage2-Turtles-11)**
-- **[Pic Scavenger](https://github.com/teamjake2018/jake)**
+- [Momentum Dash Clone](https://github.com/krittiyaclark/Momentumdash) ⭐⭐⭐
+- [Turtles Tab](https://github.com/eunicode/Voyage2-Turtles-11) ⭐⭐⭐⭐
+- [Pic Scavenger](https://github.com/teamjake2018/jake) ⭐⭐
 
 ### Individual projects
 - [Tribute Page](https://codepen.io/eunipa/pen/KmOPPJ?editors=1100)
 - [Quote Machine (JS)](https://codepen.io/eunipa/pen/PjvGeM)
 - [Quote Machine (React)](https://github.com/eunicode/quote-machine-react)
-- [Survey Form](https://github.com/eunicode/survey-form)
-- **[ES6 Technical Documentation](https://github.com/eunicode/tech-doc)**
-- **[Twitch Tracker](https://github.com/eunicode/twitch-status)**
+- [Survey Form](https://github.com/eunicode/survey-form) ⭐
+- [ES6 Technical Documentation](https://github.com/eunicode/tech-doc) ⭐⭐
+- [Twitch Tracker](https://github.com/eunicode/twitch-status) ⭐⭐
+- [Portfolio Site](https://github.com/eunicode/portfolio-js) ⭐⭐
 
 ### Practice projects
 
