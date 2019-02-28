@@ -1,11 +1,11 @@
 # My Repositories
 
-A list of all my projects in chronological order.
+A list of all my projects, by category, in chronological order.
 
 ## Projects
 
 ### Group projects
-- [Momentum Dash Clone](https://github.com/krittiyaclark/Momentumdash) ⭐⭐⭐
+- [Momentum Dash](https://github.com/krittiyaclark/Momentumdash) ⭐⭐⭐
 - [Turtles Tab](https://github.com/eunicode/Voyage2-Turtles-11) ⭐⭐⭐⭐
 - [Pic Scavenger](https://github.com/teamjake2018/jake) ⭐⭐
 
@@ -16,6 +16,7 @@ A list of all my projects in chronological order.
 - [Survey Form](https://github.com/eunicode/survey-form) ⭐
 - [ES6 Technical Documentation](https://github.com/eunicode/tech-doc) ⭐⭐
 - [Twitch Tracker](https://github.com/eunicode/twitch-status) ⭐⭐
+- [Product Landing Page](https://github.com/eunicode/product-landing-page)
 - [Portfolio Site](https://github.com/eunicode/portfolio-js) ⭐⭐
 
 ### Practice projects
@@ -27,6 +28,7 @@ A list of all my projects in chronological order.
 #### Tutorial projects
 - [Weather CLI](https://github.com/eunicode/weather-cli) 
 - Gatsby v1 Tutorials: [1](https://github.com/eunicode/gatsby-tut-1), [2](https://github.com/eunicode/gatsby-tut-2), [3](https://github.com/eunicode/gatsby-tut-3), [4](https://github.com/eunicode/gatsby-tut-4)
+- [Recipe API](https://github.com/eunicode/tut-recipe-manage)
 
 #### Backburner projects
 - [Local Weather](https://github.com/eunicode/weather-local)
