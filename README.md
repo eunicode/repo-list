@@ -12,13 +12,13 @@ A list of all my projects, by category, in reverse chronological order.
 ### Individual projects
 - [Covid-19 Fatality Risk Predictor](https://github.com/eunicode/ml-ds-js)
 - [Package Delivery](https://github.com/eunicode/package-delivery-ups)
+- [Appointment Scheduler](https://github.com/eunicode/scheduling-appt)
 - [Portfolio Site](https://github.com/eunicode/portfolio-js) 
 - [Product Landing Page](https://github.com/eunicode/product-landing-page)
 - [Twitch Tracker](https://github.com/eunicode/twitch-status) 
 - [ES6 Technical Documentation](https://github.com/eunicode/tech-doc) 
 - [Survey Form](https://github.com/eunicode/survey-form) 
-- [Quote Machine (React)](https://github.com/eunicode/quote-machine-react)
-- [Quote Machine (JS)](https://codepen.io/eunipa/pen/PjvGeM)
+- [Quote Machine (React)](https://github.com/eunicode/quote-machine-react) | [Quote Machine (JS)](https://codepen.io/eunipa/pen/PjvGeM)
 - [Tribute Page](https://codepen.io/eunipa/pen/KmOPPJ?editors=1100)
 
 ## Other
@@ -34,19 +34,23 @@ A list of all my projects, by category, in reverse chronological order.
 
 ### Boilerplates
 - [Basic Gulp boilerplate](https://github.com/eunicode/boilerplate-gulp-basic)
-- [Templates](https://github.com/eunicode/templates)
+- [Templates](https://github.com/eunicode/templates) (private)
 
 ### Practice projects
 
 #### Experimental/playground projects
-- [Holy Grail Layout with Grid](https://github.com/eunicode/pr-grid-holygrail)
 - [Search Autocomplete component](https://github.com/eunicode/pramp-autocomplete)
+- [Holy Grail Layout with Grid](https://github.com/eunicode/pr-grid-holygrail)
 
 #### Tutorial projects
-- [Weather CLI](https://github.com/eunicode/weather-cli) 
-- Gatsby v1 Tutorials: [1](https://github.com/eunicode/gatsby-tut-1), [2](https://github.com/eunicode/gatsby-tut-2), [3](https://github.com/eunicode/gatsby-tut-3), [4](https://github.com/eunicode/gatsby-tut-4)
 - [Yelp Clone](https://github.com/eunicode/yelp-clone)
+- Gatsby v1 Tutorials: [1](https://github.com/eunicode/gatsby-tut-1), [2](https://github.com/eunicode/gatsby-tut-2), [3](https://github.com/eunicode/gatsby-tut-3), [4](https://github.com/eunicode/gatsby-tut-4)
+- [Weather CLI](https://github.com/eunicode/weather-cli) 
 
 #### Backburner projects
-- [Local Weather](https://github.com/eunicode/weather-local)
 - [Recipe API](https://github.com/eunicode/tut-recipe-manage)
+- [Local Weather](https://github.com/eunicode/weather-local)
+
+### Private projects
+- [Inventory](https://github.com/eunicode/inventory)
+- [Roster](https://github.com/eunicode/class-roster)
