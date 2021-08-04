@@ -5,9 +5,9 @@ A list of all my projects, by category, in reverse chronological order.
 ## Projects
 
 ### Group projects
-- [Pic Scavenger](https://github.com/teamjake2018/jake) - freeCodeCamp's Online Hackathon
+- [Pic Scavenger](https://github.com/teamjake2018/jake) - freeCodeCamp Hackathon
 - [Turtles Tab](https://github.com/eunicode/Voyage2-Turtles-11) - Chingu Voyage #2 Turtles-11 Cohort
-- [Momentum Dash](https://github.com/krittiyaclark/Momentumdash) - Chingu Voyage #1 Owls-6 Cohort
+- [Momentum Dash](https://github.com/eunicode/Momentumdash) - Chingu Voyage #1 Owls-6 Cohort
 
 ### Individual projects
 - [Covid-19 Fatality Risk Predictor](https://github.com/eunicode/ml-ds-js)
@@ -18,7 +18,6 @@ A list of all my projects, by category, in reverse chronological order.
 - [Twitch Tracker](https://github.com/eunicode/twitch-status) 
 - [ES6 Technical Documentation](https://github.com/eunicode/tech-doc) 
 - [Survey Form](https://github.com/eunicode/survey-form) 
-- [Quote Machine (React)](https://github.com/eunicode/quote-machine-react) | [Quote Machine (JS)](https://codepen.io/eunipa/pen/PjvGeM)
 - [Tribute Page](https://codepen.io/eunipa/pen/KmOPPJ?editors=1100)
 
 ## Other
@@ -54,3 +53,4 @@ A list of all my projects, by category, in reverse chronological order.
 ### Private projects
 - [Inventory](https://github.com/eunicode/inventory)
 - [Roster](https://github.com/eunicode/class-roster)
+- [Quote Machine (React)](https://github.com/eunicode/quote-machine-react) | [Quote Machine (JS)](https://codepen.io/eunipa/pen/PjvGeM)
